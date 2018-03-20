@@ -1,0 +1,10 @@
+#walrus-showing, #sandcastles-show {
+  display: none;
+}
+.clickable {
+  color: steelblue;
+  cursor: pointer;
+}
+.clickable:hover {
+  text-decoration:
+}
